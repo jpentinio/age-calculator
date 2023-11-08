@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Age Calculator solution](https://your-solution-url.com)
-- Live Site URL: [Age Calculator solution](https://notification-page-omega-virid.vercel.app/)
+- Solution URL: [Age Calculator solution](https://www.frontendmentor.io/solutions/age-calculator-app-using-reacttailwindcss-and-reactanimatednumbers-iGjgNUQFk1)
+- Live Site URL: [Age Calculator solution](https://age-calculator-sage-nu.vercel.app/)
 
 ## My process
 
